@@ -30,10 +30,14 @@ for weather info commands(choice 1): { please scroll down below for location com
 for location info commands( choice 2) { please scroll to top for weather commands (choice 1)}
 
 USE:   
-        "resolvedAddress"    to see    which region of the country they fall into (State),
+        "resolvedAddress"    to see    which region of the country they fall into (State)
+        
         "latitude"            to see     the latitude of the city
+        
         "longitude"           to see     the longitude of the city
+        
         "timezone"            to see     the timezone of the city
+        
         "description"         to see     the description of the place 
 
 
