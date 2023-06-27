@@ -10,7 +10,6 @@ for weather info commands(choice 1): { please scroll down below for location com
 
  USE:
         "temp"       to see  the current temperature in (degree F),
-
         "conditions" to see [which type of weather is it (sunny or rainy etc...)]
 
         "windspeed"     to see      currently the speed of wind
