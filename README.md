@@ -9,9 +9,9 @@ for weather info commands(choice 1): { please scroll down below for location com
 (just copy the content inside don't copy quotes ("......"))
 
  USE:
+ 
         "temp"       to see  the current temperature in (degree F),
         "conditions" to see [which type of weather is it (sunny or rainy etc...)]
-
         "windspeed"     to see      currently the speed of wind
         "winddir"       to see      the Direction wind is blowing(360)
         "pressure"      to see      Atmospheric pressure of air
